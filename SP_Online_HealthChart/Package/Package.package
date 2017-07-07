@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="80331a52-4204-4c50-9584-4a9a6e35039e" 
+        solutionId="80331a52-4204-4c50-9584-4a9a6e35039e" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SP_Online_HealthChart"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="c9286d7c-8d60-4fe9-ae1d-a45ce771cd9f" />
+  </features>
+</package>
